@@ -6,7 +6,7 @@ A GUI-based fitness tracking system developed using Python. The app allows users
 
 ## Features
 
-- **User Registration & Login** (local authentication)
+- User Registration & Login (local authentication)
 - GUI Interface built with Tkinter
 - Workout Logging: Add daily workouts with duration and calories burned
 - Weight Tracking: Log and view weight changes over time
